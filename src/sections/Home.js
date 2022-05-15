@@ -26,7 +26,7 @@ const Home = () => {
                 >
                     <SmallDiv className="top">
                         <Row1 className="row"></Row1>
-                        <SmalText>Djiboutian developer</SmalText>
+                        <SmalText>Djiboutian developer now</SmalText>
                     </SmallDiv>
                     <SmallDiv>
                         <BigText>we are modern and creative</BigText>
